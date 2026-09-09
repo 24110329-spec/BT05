@@ -73,6 +73,4 @@ public class UserController {
         return "redirect:/admin/users";
     }
 }
-public class UserController {
 
-}
